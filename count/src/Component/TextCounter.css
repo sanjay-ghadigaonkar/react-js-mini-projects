@@ -1,0 +1,22 @@
+
+#teaxtEra {
+width: 90%;
+height: 15rem;
+border-radius: 3px;
+padding: 0.5rem;
+margin: 0.5rem;
+background-color: black;
+color: white;
+}
+
+#header{
+  font-size: 30px;
+  font-weight: 700;
+  margin: 20px;
+  color: red;
+}
+ @media (max-width: 600px ) {
+   teaxtEra{
+    width: 100%;
+   }
+ }
