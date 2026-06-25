@@ -1,10 +1,17 @@
 import React from "react";
+
 import Password from "./Components/PassWord";
+import Faq from "./Components/Faq";
 
 const App = () => {
   return (
     <div>
-      <Password />
+      <div>
+        <Password />
+      </div>
+      <div>
+        <Faq />
+      </div>
     </div>
   );
 };
