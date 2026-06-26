@@ -22,7 +22,9 @@ const Faq = () => {
         >
           {/* 3. onClick par hum current item ki ID state mein daal rahe hain */}
           <h3
-            onClick={() => setActiveId(item.id)}
+            onClick={() => {
+              activeId === item.id ? setActiveId(null) : setActiveId(item.id);
+            }}
             style={{ cursor: "pointer" }}
           >
             {item.question}

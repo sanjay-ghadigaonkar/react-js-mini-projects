@@ -1,16 +1,23 @@
-# React + Vite
+# Faq Acording Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What Is This Project
 
-Currently, two official plugins are available:
+# This Is A Simple Raq Frequesntly Ask Qutions Its Inser Open
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# If You Click Anthor Question The First One Close Ototmaticaly
 
-## React Compiler
+## Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Only Click Answer Stay Open At A Time
 
-## Expanding the ESLint configuration
+# Cliking An Open Question Closes It ( Toggel)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# What I Lern This Project
+
+# 1 Usestat Use State The Save Id Of The Clicked Qution
+
+# 2 Map() Method: Use Map() To Display To The List Of Question From To Array
+
+# 3 Condtion Rendring Use The && Opretor To Show The Answer Only If Condition Activetid === Item.Id
+
+# 4 Ternary Oprater Used ? : Inside The Onclick
